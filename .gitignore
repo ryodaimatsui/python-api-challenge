@@ -154,3 +154,6 @@ cython_debug/
 
 # adding a config.py file
 api_keys.py 
+
+# hiding ds_store
+.DS_Store
